@@ -30,10 +30,10 @@ When taking about going back, we have think of wayback machine, so we have try t
 but only the same pages show up
 ![image](./Chipi_chipi_chapa_chapa_cat_Wayback_Failed.png)
 
-So we have decide to...
+So we have decide to lookup the domain name using [mxtoolbox.com](https://mxtoolbox.com/DnsLookup.aspx)
+![image](./DNSlookup.jpg)
 
-> Continue with the thing you said in dc
-
+we can see it's a CNAME record pointing to "purplese4shell.github.io"
 Then we try to enter "purplese4shell.github.io" into the wayback machine
 And the following pages appear, simply just the cat video but it also have serect link "Shhhhhh! This is a Secret!"
 ![image](./Chipi_chipi_chapa_chapa_cat_Wayback_Sucess.png)
