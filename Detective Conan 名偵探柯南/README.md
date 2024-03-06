@@ -12,7 +12,8 @@ A .eml file given to us, and when we open it, we can see the following message:
 > Photo wait to be added
 
 And a photo is also attached on the email:
-> Photo wait to be added
+![Uploading WhatsApp Image 2024-03-03 at 14.37.58_62c3ebe4.jpg…]()
+
 
 We have save the .jpg file and open the .jpg file with the hex editor, and we can saw lot of secret-directive.nuttyshell.cc on the file begining
 > Photo wait to be added
