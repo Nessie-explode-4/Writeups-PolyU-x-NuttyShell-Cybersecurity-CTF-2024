@@ -9,13 +9,10 @@ Author 作者: PurpleSe4shell
 ```
 
 A .eml file given to us, and when we open it, we can see the following message:
-![image](https://github.com/Nessie-explode-4/Writeups-PolyU-x-NuttyShell-Cybersecurity-CTF-2024/assets/68149951/bc7cdab8-83ef-4fd6-a3eb-67581699e9fe)
-
+![image](./HQ_Email_Message_to_all_agent.png)
 
 And a photo is also attached on the email:
-![WhatsApp Image 2024-03-03 at 14 37 58_ad631025](https://github.com/Nessie-explode-4/Writeups-PolyU-x-NuttyShell-Cybersecurity-CTF-2024/assets/68149951/4d6c0827-8b5b-4f14-8f16-123fd6bd6c43)
-
-
+![image](./I福U.jpg)
 
 We have save the .jpg file and open the .jpg file with the hex editor, and we can saw lot of secret-directive.nuttyshell.cc on the file begining
 > Photo wait to be added
@@ -23,11 +20,11 @@ We have save the .jpg file and open the .jpg file with the hex editor, and we ca
 We try to enter the secret-directive.nuttyshell.cc to our browser, and we found that there only have cat video and hint
 "I'm hosted with GitHub Pages."
 "Nothing to see here now execept cat videos.. if only there is a way back..."
-![image](https://github.com/Nessie-explode-4/Writeups-PolyU-x-NuttyShell-Cybersecurity-CTF-2024/assets/68149951/777c3162-f4bc-4730-8222-5c47ed55b490)
+![image](./Chipi_chipi_chapa_chapa_cat_Without_Wayback.png)
 
 When taking about going back, we have think of wayback machine, so we have try to enter the link to the wayback machine
 but only the same pages show up
-![image](https://github.com/Nessie-explode-4/Writeups-PolyU-x-NuttyShell-Cybersecurity-CTF-2024/assets/68149951/cd4f4173-9a52-48ad-bee6-6e4e832ee467)
+![image](./Chipi_chipi_chapa_chapa_cat_Wayback_Failed.png)
 
 
 So we have decide to... 
