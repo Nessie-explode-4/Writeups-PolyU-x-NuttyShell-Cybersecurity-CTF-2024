@@ -35,7 +35,8 @@ So we have decide to...
 
 Then we try to enter "purplese4shell.github.io" into the wayback machine
 And the following pages appear, simply just the cat video but it also have serect link "Shhhhhh! This is a Secret!"
-> Photo here
+![image](https://github.com/Nessie-explode-4/Writeups-PolyU-x-NuttyShell-Cybersecurity-CTF-2024/assets/68149951/99979275-7080-4bdd-add3-f4764c89885c)
+
 
 And we click on to the link and link to a google drive "https://drive.google.com/file/d/1F_EpcMEGODsijaKuo_4zrab48b6GzQJS/view?usp=drive_link"
 
