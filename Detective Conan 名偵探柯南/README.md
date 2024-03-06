@@ -19,7 +19,7 @@ And a photo is also attached on the email:
 
 We have save the .jpg file and see the .jpg file description, we have notice the title in the description have point to the secret-directive.nuttyshell.cc
 
-![image](./Description_photo.jpg)
+![image](./Description_photo.png)
 
 Then We try to enter the secret-directive.nuttyshell.cc to our browser, and we found that there only have cat video and hint
 "I'm hosted with GitHub Pages."
