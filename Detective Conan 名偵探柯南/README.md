@@ -27,7 +27,7 @@ We try to enter the secret-directive.nuttyshell.cc to our browser, and we found 
 
 When taking about going back, we have think of wayback machine, so we have try to enter the link to the wayback machine
 but only the same pages show up
-![image](https://github.com/Nessie-explode-4/Writeups-PolyU-x-NuttyShell-Cybersecurity-CTF-2024/assets/68149951/064c5034-a807-46e8-bb48-71c0bce3ea5c)
+![image](https://github.com/Nessie-explode-4/Writeups-PolyU-x-NuttyShell-Cybersecurity-CTF-2024/assets/68149951/cd4f4173-9a52-48ad-bee6-6e4e832ee467)
 
 
 So we have decide to... 
