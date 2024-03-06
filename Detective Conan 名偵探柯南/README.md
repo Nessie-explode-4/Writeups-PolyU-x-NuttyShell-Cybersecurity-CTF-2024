@@ -26,7 +26,8 @@ When taking about going back, we have think of wayback machine, so we have try t
 but only the same pages show up
 > Photo wait to be added
 
-So we have decide to... (Continue with the thing you said in dc)
+So we have decide to... 
+> Continue with the thing you said in dc
 
 Then we try to enter "purplese4shell.github.io" into the wayback machine
 And the following pages appear, simply just the cat video but it also have serect link "Shhhhhh! This is a Secret!"
