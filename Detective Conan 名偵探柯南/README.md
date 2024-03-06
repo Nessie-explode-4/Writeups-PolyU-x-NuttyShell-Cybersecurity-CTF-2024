@@ -9,7 +9,8 @@ Author 作者: PurpleSe4shell
 ```
 
 A .eml file given to us, and when we open it, we can see the following message:
-> Photo wait to be added
+![image](https://github.com/Nessie-explode-4/Writeups-PolyU-x-NuttyShell-Cybersecurity-CTF-2024/assets/68149951/bc7cdab8-83ef-4fd6-a3eb-67581699e9fe)
+
 
 And a photo is also attached on the email:
 ![WhatsApp Image 2024-03-03 at 14 37 58_ad631025](https://github.com/Nessie-explode-4/Writeups-PolyU-x-NuttyShell-Cybersecurity-CTF-2024/assets/68149951/4d6c0827-8b5b-4f14-8f16-123fd6bd6c43)
