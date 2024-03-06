@@ -17,11 +17,11 @@ A .eml file given to us, and when we open it, we can see the following message:
 And a photo is also attached on the email:
 ![image](./I福U.jpg)
 
-We have save the .jpg file and open the .jpg file with the hex editor, and we can saw lot of secret-directive.nuttyshell.cc on the file begining
+We have save the .jpg file and see the .jpg file description, we have notice the title in the description have point to the secret-directive.nuttyshell.cc
 
-> Photo wait to be added
+![image](./Description_photo.jpg)
 
-We try to enter the secret-directive.nuttyshell.cc to our browser, and we found that there only have cat video and hint
+Then We try to enter the secret-directive.nuttyshell.cc to our browser, and we found that there only have cat video and hint
 "I'm hosted with GitHub Pages."
 "Nothing to see here now execept cat videos.. if only there is a way back..."
 ![image](./Chipi_chipi_chapa_chapa_cat_Without_Wayback.png)
