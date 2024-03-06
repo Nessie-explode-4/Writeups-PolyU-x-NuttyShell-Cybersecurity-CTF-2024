@@ -55,7 +55,7 @@ Let's run the following command to get the basic info of the .mem file
 python3 vol.py -f /Users/johnnylui/Downloads/HK_ATP_2024.mem windows.info
 ```
 
-![image](https://cdn.discordapp.com/attachments/662131128941019148/1214810087391109140/image.png?ex=65fa770e&is=65e8020e&hm=9317f2f631662f126fd73f09979a109629b51e5536a7392d8502720deb7e100c&)
+![image](./windowsInfo.png)
 
 We have the created UTC time `2024-02-24 13:07:56`
 
@@ -63,7 +63,7 @@ We have the created UTC time `2024-02-24 13:07:56`
 python vol.py -f /Users/johnnylui/Downloads/HK_ATP_2024.mem windows.hashdump
 ```
 
-![image](https://cdn.discordapp.com/attachments/662131128941019148/1214813361385242665/2024-03-06_1.54.29.png?ex=65fa7a1b&is=65e8051b&hm=c6ed989deccc819354eb96b056a503be80eb0c8e97cf2870021b46228b56d422&)
+![image](./hashdump.png)
 
 We can get the username from the result `hops`
 
@@ -73,7 +73,7 @@ Run the following comamnd to get the host name from registry
 python vol.py -f /Users/johnnylui/Downloads/HK_ATP_2024.mem windows.registry.printkey.PrintKey --key 'ControlSet001\Control\ComputerName\ComputerName'
 ```
 
-![image](https://cdn.discordapp.com/attachments/662131128941019148/1214814319569797130/2024-03-06_1.58.18.png?ex=65fa7aff&is=65e805ff&hm=522ec20965c8af21b7840773010cf4dc81ac324c4251a8bf6dff99369e81a6d5&)
+![image](./printkey.png)
 
 Host name: `WIN11-HOPS-PC`
 We can also know the windows version from the hostname `11`
@@ -84,7 +84,7 @@ let's check for the command executed in cmd.exe
 python vol.py -f /Users/johnnylui/Downloads/HK_ATP_2024.mem windows.cmdline.CmdLine
 ```
 
-![image](https://cdn.discordapp.com/attachments/662131128941019148/1214815165779025950/2024-03-06_2.01.39.png?ex=65fa7bc9&is=65e806c9&hm=1cb37765ad67f8a90e002235055a8b83e963cacc5d32e2a5f01d4ccf2ed114da&)
+![image](./cmdline.png)
 
 We can see `FTK Imager.exe` at the end and the process id is `3664`
 
