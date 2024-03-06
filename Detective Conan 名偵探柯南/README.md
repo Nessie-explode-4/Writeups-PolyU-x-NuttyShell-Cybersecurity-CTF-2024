@@ -23,7 +23,7 @@ We have save the .jpg file and open the .jpg file with the hex editor, and we ca
 We try to enter the secret-directive.nuttyshell.cc to our browser, and we found that there only have cat video and hint
 "I'm hosted with GitHub Pages."
 "Nothing to see here now execept cat videos.. if only there is a way back..."
-> Photo wait to be added
+![image](https://github.com/Nessie-explode-4/Writeups-PolyU-x-NuttyShell-Cybersecurity-CTF-2024/assets/68149951/777c3162-f4bc-4730-8222-5c47ed55b490)
 
 When taking about going back, we have think of wayback machine, so we have try to enter the link to the wayback machine
 but only the same pages show up
